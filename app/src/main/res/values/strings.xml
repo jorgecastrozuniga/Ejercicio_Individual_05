@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio_Individual_05</string>
+    <string name="nombres">Ingrese su nombre</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="email">Ingrese su email</string>
+    <string name="contrasena">Ingrese su clave</string>
+
+</resources>
